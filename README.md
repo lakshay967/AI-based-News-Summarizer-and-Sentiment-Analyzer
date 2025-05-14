@@ -55,7 +55,7 @@ To provide an interactive and intelligent news portal
 
 📁File Structure
 
-![Screenshot 2025-05-14 220658](https://github.com/user-attachments/assets/6438fed7-b7c0-49c8-80a1-58c742ea513b)
+![Screenshot 2025-05-14 220903](https://github.com/user-attachments/assets/b64c4bc0-2d55-4d7a-bbe3-34f99836af1b)
 
 
 📷Screenshots
