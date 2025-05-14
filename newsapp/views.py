@@ -22,7 +22,7 @@ else:
     vectorizer = joblib.load(os.path.join(BASE_DIR, 'newsapp', 'model', 'vectorizer.pkl'))  # fallback
 
 # API Configuration
-NEWS_API_KEY = 'f94592e68303446aac394df5b8dedb97'
+NEWS_API_KEY = 'Your_Api_key'
 NEWS_API_URL = f'https://newsapi.org/v2/top-headlines?country=us&apiKey={NEWS_API_KEY}'
 
 # Initialize Huggingface Sentiment Pipeline
