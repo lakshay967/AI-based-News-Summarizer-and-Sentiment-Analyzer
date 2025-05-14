@@ -3,6 +3,8 @@
 🧠 AI-Based News Summarizer & Sentiment Analyzer 📰
 
 Group project : Lakshay Kumar , Deepak Kumar bind & Shiv yadav Shalhata
+
+
 This project is an AI/ML-powered web application built using Django that:
 
 Summarizes real-time news articles
